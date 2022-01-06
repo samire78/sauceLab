@@ -1,5 +1,5 @@
 describe('DEDEDE', () => {
 it('LALALA', ( )=> {
-    cy.log('NANANANA')
+    cy.log('N UPDATE DU SCRIPTANANANA')
 })
 })
